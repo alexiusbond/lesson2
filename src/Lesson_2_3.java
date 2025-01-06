@@ -63,4 +63,6 @@ public class Lesson_2_3 {
         // Невозвращаемый метод без параметров
         System.out.println("Длительность: 5 мин");
     }
+
+    // End of program
 }

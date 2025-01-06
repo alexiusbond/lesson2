@@ -1,5 +1,6 @@
 public class Lesson_2_2 {
     public static void main(String[] args) {
+        // Hi Sensei
         int numberOfStudents = 10;
         int temperature = 15;
         boolean isNight = true;
